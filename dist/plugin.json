@@ -1,0 +1,23 @@
+{
+  "type": "panel",
+  "name": "Grafana Prophet Panel",
+  "id": "kirkchen-grafana-prophet",
+
+  "info": {
+    "description": "Grafana Prophet Panel",
+    "author": {
+      "name": "Kirk Chen"
+    },
+    "keywords": ["prophet", "panel"],
+    "version": "0.0.1",
+    "updated": "2019-07-09"
+  },
+  "links": [
+    {"name": "Project site", "url": "https://github.com/kirkchen/grafana-prophet"},
+    {"name": "MIT License", "url": "https://github.com/kirkchen/grafana-prophet/blob/master/LICENSE"}
+  ],
+  "dependencies": {
+    "grafanaVersion": "3.x.x",
+    "plugins": [ ]
+  }
+}

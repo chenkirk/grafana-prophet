@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/module.js"],"names":["ProphetCtrl"],"mappings":";;;;;;;;AAAQA,MAAAA,W,iBAAAA,W;;;2BAGNA,W","sourcesContent":["import {ProphetCtrl} from './prophet_ctrl';\n\nexport {\n  ProphetCtrl as PanelCtrl\n};\n"],"file":"module.js"}
